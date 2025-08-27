@@ -10,7 +10,7 @@ Ideal para jugar al clàsico **"Amigo Secreto"** 🎲.
 
    ---
 
-## Descripciòn del proyecto
+## 📌Descripciòn del proyecto
 Este proyecto consiste en una aplicaciòn web que permite lo siguiente:
 - ✅ Ingresar nombres de amigos en una lista.
 - ✅Visualizar la lista actualizada en pantalla.
@@ -20,19 +20,19 @@ Este proyecto consiste en una aplicaciòn web que permite lo siguiente:
 
  ---
 
- ## Estado del proyecto
+ ## 📌 Estado del proyecto
  Proyecto terminado y funcional ✔️.
  <p align="left">
 <img src="https://img.shields.io/badge/STATUS-TERMINADO-orange">
 </p>
  
- Ejemplo en acciòn
+ ## 🖼️ Ejemplo en acciòn
  - Lista de amigos agregados 📖 :
  Juan, Marìa, Pedro.
  - Resultado al sortear :
  "El amigo secreto es: Marìa 🎉".
 
- ## Funcionalidades
+ ## 📌 Funcionalidades
  - Agregar amigos a la lista ➕ .
  - Mostrar la lista de amigos en pantalla 🔎.
  - Sortear un amigo aleatorio de la lista  🎲.
@@ -40,18 +40,18 @@ Este proyecto consiste en una aplicaciòn web que permite lo siguiente:
 
  ---
 
- ## Acceso al proyecto
+ ##  🔗 Acceso al proyecto
  Repositorio en GitHub [Challengue Amigo Secreto](https://github.com/Jesus645363/Challengue-amigo-secreto).-
 
  ---
 
- ## Tecnologías utilizadas
+ ## 🛠️ Tecnologías utilizadas
  - HTML.
  - CSS.
  - JavaScript.
 
  ---
 
- ## Autor 
+ ## 👨‍💻 Autor 
  - **Jesus645363** - [@Jesus645363](https://github.com/Jesus645363)
 
